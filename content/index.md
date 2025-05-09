@@ -1,34 +1,17 @@
 ---
-UID: 202408091418
-title: Mornczp
-aliases:
-  - Mornczp
-source: 
-tags:
-  - moc
-cssclasses:
-  - kanban
-  - mymoc
----
-Mornczp是我基于某种背景建立的各种记录的整合，是我建立的第二大脑，也是我第二大脑的指导方法。主要具有以下特点：
-[[Mornczp意义]]是为“更好的思考”。
+--- 
 
-做笔记的方法主要参考了[[常青笔记]]，时间管理上参考了[[柳比歇夫时间记录法]]，并基于此建立了自己的[[250504-Mornczp-方法论|Mornczp-方法论]]。
+hello 👋，欢迎光临。
 
-自2024-02-18起，Mornczp载体为[[Obsidian]]。
+> [!info] 本网站的搭建方式
+> 本网站基于MOC（内容地图）的架构搭建，其特点是原子化和使用大量`链接`。
 
-Mornczp未来会如何演变，参考[[Mornczp三步走]]。
 
-%% Begin Waypoint %%
-- **[[04-Mornczp]]**
-	- **[[250504-Mornczp-方法论]]**
-	- **收录**
-		- [[oldwinterの数字花园]]
-	- **[[Mornczp版本]]**
-	- **[[Mornczp分享]]**
-	- [[Mornczp结构]]
-	- [[Mornczp三步走]]
-	- **[[Mornczp意义]]**
-	- **[[Mornczp载体]]**
+> [!question] 如何愉快地浏览本网站？
+> 1. 你可以点击任何感兴趣的链接。
+> 2. 你可以通过通过右侧的`Backlinks`返回之前的页面。
+> 3. 通过正反链接，你可以一直通向感兴趣的内容，直到你厌倦为止。
 
-%% End Waypoint %%
+以下是本次分享的内容：
+➡️[[04-Mornczp|Mornczp]]
+➡️[[250505-思维导图使用心得]]
