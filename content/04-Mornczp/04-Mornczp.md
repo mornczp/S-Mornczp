@@ -19,12 +19,4 @@ Mornczp是我基于某种背景建立的各种记录的整合，是我建立的�
 
 Mornczp未来会如何演变，参考[[Mornczp三步走]]。
 
-%% Begin Waypoint %%
-- **[[04-Mornczp]]**
-	- **[[250504-Mornczp-方法论]]**
-	- **收录**
-		- [[oldwinterの数字花园]]
-	- [[Mornczp结构]]
-	- **[[Mornczp载体]]**
 
-%% End Waypoint %%
