@@ -25,10 +25,7 @@ Mornczp未来会如何演变，参考[[Mornczp三步走]]。
 	- **收录**
 		- [[oldwinterの数字花园]]
 	- **[[Mornczp版本]]**
-	- **[[Mornczp分享]]**
 	- [[Mornczp结构]]
-	- [[Mornczp三步走]]
-	- **[[Mornczp意义]]**
 	- **[[Mornczp载体]]**
 
 %% End Waypoint %%
