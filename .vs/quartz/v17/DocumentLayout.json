@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A\\Learning\\quartz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz\\components\\Backlinks.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz\\components\\Backlinks.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz.layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz.layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz\\components\\styles\\backlinks.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz\\components\\styles\\backlinks.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz\\components\\Breadcrumbs.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz\\components\\Breadcrumbs.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A\\Learning\\quartz\\quartz\\components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quartz\\components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "backlinks.scss",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz\\components\\styles\\backlinks.scss",
+              "RelativeDocumentMoniker": "quartz\\components\\styles\\backlinks.scss",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz\\components\\styles\\backlinks.scss",
+              "RelativeToolTip": "quartz\\components\\styles\\backlinks.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-01-06T06:29:29.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quartz.config.ts",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz.config.ts",
+              "RelativeDocumentMoniker": "quartz.config.ts",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz.config.ts",
+              "RelativeToolTip": "quartz.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-06T06:25:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backlinks.tsx",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz\\components\\Backlinks.tsx",
+              "RelativeDocumentMoniker": "quartz\\components\\Backlinks.tsx",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz\\components\\Backlinks.tsx",
+              "RelativeToolTip": "quartz\\components\\Backlinks.tsx",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-06T05:32:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Breadcrumbs.tsx",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz\\components\\Breadcrumbs.tsx",
+              "RelativeDocumentMoniker": "quartz\\components\\Breadcrumbs.tsx",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz\\components\\Breadcrumbs.tsx",
+              "RelativeToolTip": "quartz\\components\\Breadcrumbs.tsx",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwEMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-06T05:27:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz\\components\\Footer.tsx",
+              "RelativeDocumentMoniker": "quartz\\components\\Footer.tsx",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz\\components\\Footer.tsx",
+              "RelativeToolTip": "quartz\\components\\Footer.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-06T03:46:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quartz.layout.ts",
+              "DocumentMoniker": "D:\\A\\Learning\\quartz\\quartz.layout.ts",
+              "RelativeDocumentMoniker": "quartz.layout.ts",
+              "ToolTip": "D:\\A\\Learning\\quartz\\quartz.layout.ts",
+              "RelativeToolTip": "quartz.layout.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-06T03:33:39.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
