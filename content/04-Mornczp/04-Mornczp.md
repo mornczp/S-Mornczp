@@ -24,7 +24,6 @@ Mornczp未来会如何演变，参考[[Mornczp三步走]]。
 	- **[[250504-Mornczp-方法论]]**
 	- **收录**
 		- [[oldwinterの数字花园]]
-	- **[[Mornczp版本]]**
 	- [[Mornczp结构]]
 	- **[[Mornczp载体]]**
 
