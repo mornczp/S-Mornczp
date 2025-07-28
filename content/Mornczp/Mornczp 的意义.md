@@ -1,15 +1,15 @@
 ---
-title: Mornczp意义
-aliases: 
+title: Mornczp 的意义
+aliases:
 categories: "[[Mornczp]]"
 type: "[[Knowledge]]"
 tags:
   - Mornczp
-source: 
+source:
 created: 2024-08-09T14:15:54
-updated: 2025-07-07T17:16
+updated: 2025-07-28T10:37
 ---
-## Mornczp意义
+# Mornczp 的意义
 
 本文介绍Mornczp的背景、意义、结果
 ### 背景
@@ -35,7 +35,7 @@ updated: 2025-07-07T17:16
 随着时间的推移积累成更有价值的东西
 
 
-如何做笔记以形成更好的思考，请参考[[250504-Mornczp-方法论|Mornczp-方法论]]。
+如何做笔记以形成更好的思考，请参考[[250504-知识管理|知识管理]]。
 
 
 
